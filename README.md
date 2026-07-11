@@ -22,9 +22,9 @@
 
 ### 📊 GitHub Stats
 
-![Sayon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SayonBiswas&show_icons=true&theme=tokyonight)
+![Sayon's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SayonBiswas&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SayonBiswas&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SayonBiswas&layout=compact&theme=tokyonight&hide=c,cpp)
 
 ---
 
