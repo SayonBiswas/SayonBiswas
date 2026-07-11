@@ -38,9 +38,9 @@
 
 | Project | Tech | Links |
 |---|---|---|
-| Student Management Website | Python, FastAPI, PostgreSQL | [GitHub](https://github.com/SayonBiswas/Student_Management_Website) | [Live](https://student-management-website-iirr.onrender.com) |
-| Portfolio Website | HTML, CSS, Python, Jinja2 | [GitHub](https://github.com/SayonBiswas) \| [Live](https://portfolio-u2go.onrender.com) |
-| IWT Examination App | JSP, PostgreSQL, SQL | [GitHub](https://github.com/SayonBiswas/IWT) | [Live](https://examhub-q9ez.onrender.com)
+| Student Management Website | Python, FastAPI, PostgreSQL | [GitHub](https://github.com/SayonBiswas/Student_Management_Website) \| [Live](https://student-management-website-iirr.onrender.com) |
+| Portfolio Website | HTML, CSS, Python, Jinja2 | [GitHub](https://github.com/SayonBiswas/Portfolio) \| [Live](https://portfolio-u2go.onrender.com) |
+| IWT Examination App | JSP, PostgreSQL, SQL | [GitHub](https://github.com/SayonBiswas/IWT) \| [Live](https://examhub-q9ez.onrender.com) |
 
 ---
 
