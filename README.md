@@ -2,10 +2,10 @@
 
 🎓 BTech CS @ SIT Bhubaneswar | BS Data Science @ IIT Madras  
 🔭 Currently working on: Student Management Website  
-🌱 Currently learning: Machine Learning, AWS DevOps  
+🌱 Currently learning: Machine Learning, FastAPI, PostgreSQL  
 💬 Ask me about: Python, FastAPI, REST APIs, PostgreSQL  
 📫 Reach me at: sayonbiswas31@gmail.com  
-🌐 Portfolio: [your portfolio link]
+🌐 Portfolio: [portfolio-u2go.onrender.com](https://portfolio-u2go.onrender.com)
 
 ---
 
@@ -15,7 +15,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -37,9 +38,9 @@
 
 | Project | Tech | Links |
 |---|---|---|
-| Student Management Website | Python, FastAPI, PostgreSQL | [GitHub](#) \| [Live](#) |
-| Portfolio Website | HTML, CSS, Jinja2 | [GitHub](#) \| [Live](#) |
-| IWT Examination App | JSP, PostgreSQL | [GitHub](#) |
+| Student Management Website | Python, FastAPI, PostgreSQL | [GitHub](https://github.com/SayonBiswas/Student_Management_Website) | [Live](https://student-management-website-iirr.onrender.com) |
+| Portfolio Website | HTML, CSS, Python, Jinja2 | [GitHub](https://github.com/SayonBiswas) \| [Live](https://portfolio-u2go.onrender.com) |
+| IWT Examination App | JSP, PostgreSQL, SQL | [GitHub](https://github.com/SayonBiswas/IWT) | [Live](https://examhub-q9ez.onrender.com)
 
 ---
 
